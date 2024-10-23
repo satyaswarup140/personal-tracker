@@ -1,3 +1,4 @@
+
 # Personal Expense Tracker
 
 ## Description
@@ -27,7 +28,7 @@ A RESTful API to manage personal expenses and incomes. This project allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/satyaswarup140/Expense-Income-Tracker.git
+   git clone https://github.com/satyaswarup140/personal-tracker.git
 
 2. Navigate to the project directory:
    cd personal-expense-tracker
