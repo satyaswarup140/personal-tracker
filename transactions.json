@@ -1,0 +1,72 @@
+[
+    {
+        "type": "Income",
+        "category": "Salary",
+        "amount": 5000,
+        "date": "2024-10-01",
+        "description": "Monthly salary"
+    },
+    {
+        "type": "Expense",
+        "category": "Rent",
+        "amount": -1500,
+        "date": "2024-10-02",
+        "description": "Rent payment"
+    },
+    {
+        "type": "Expense",
+        "category": "Groceries",
+        "amount": -300,
+        "date": "2024-10-03",
+        "description": "Grocery shopping"
+    },
+    {
+        "type": "Income",
+        "category": "Freelance",
+        "amount": 1200,
+        "date": "2024-10-05",
+        "description": "Web development gig"
+    },
+    {
+        "type": "Expense",
+        "category": "Transport",
+        "amount": -100,
+        "date": "2024-10-06",
+        "description": "Train fare"
+    },
+    {
+        "type": "Income",
+        "category": "Investment",
+        "amount": 800,
+        "date": "2024-10-07",
+        "description": "Stock dividends"
+    },
+    {
+        "type": "Expense",
+        "category": "Entertainment",
+        "amount": -200,
+        "date": "2024-10-08",
+        "description": "Movie tickets"
+    },
+    {
+        "type": "Expense",
+        "category": "Bills",
+        "amount": -600,
+        "date": "2024-10-09",
+        "description": "Electricity bill"
+    },
+    {
+        "type": "Income",
+        "category": "Gift",
+        "amount": 300,
+        "date": "2024-10-10",
+        "description": "Birthday gift"
+    },
+    {
+        "type": "Expense",
+        "category": "Shopping",
+        "amount": -400,
+        "date": "2024-10-11",
+        "description": "Clothes shopping"
+    }
+]
